@@ -1,6 +1,7 @@
 {
   "name": "honda-site",
   "private": true,
+  "homepage": "http://romainjeanty-rgb.github.io/Honda-Site",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,5 +11,8 @@
   },
   "devDependencies": {
     "vite": "^7.1.2"
+  },
+  "dependencies": {
+    "three": "^0.179.1"
   }
 }
